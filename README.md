@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm @Kafkaluo
+- 🌱 I'm currently a master student at Keio University, Majored in Computer Science.
 
 <!--
 **KafkaLuo/Kafkaluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
